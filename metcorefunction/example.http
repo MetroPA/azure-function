@@ -1,0 +1,8 @@
+
+POST http://localhost:7071/api/HttpConvertB64?blob_name=outstanding.csv
+Content-Type: application/json
+
+{
+  "blob_name": "outstanding.csv"
+}
+
